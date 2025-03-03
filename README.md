@@ -23,4 +23,3 @@
   
 </div>
 
-![snake gif](https://github.com/egc7/egc7/blob/output/github-contribution-grid-snake.svg)
