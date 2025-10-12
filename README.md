@@ -1,4 +1,4 @@
-<h2>Olá! Meu Nome É Eduardo Galeno </h2>
+<h2>Olá! Meu Nome É Eduardo Cajueiro </h2>
 
 <a href="https://github.com/egc7/">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=egc7&theme=midnight-purple" />
