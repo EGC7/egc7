@@ -123,9 +123,9 @@ class About extends Me {
 </picture>
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-- 🖥 Engeneering 𝚠𝚒𝚝𝚑 bold 𝚒𝚍𝚎𝚊𝚜
+- 💼 Engeneering 𝚠𝚒𝚝𝚑 bold 𝚒𝚍𝚎𝚊𝚜
 - 🎓 𝙱𝚊𝚌𝚑𝚎𝚕𝚘𝚛'𝚜 Engeenering Computer 𝚏𝚛𝚘𝚖 CESUPA, 𝚌𝚕𝚊𝚜𝚜 𝚘𝚏 𝟸0𝟸6
-- 🎓 𝙱𝚊𝚌𝚑𝚎𝚕𝚘𝚛'𝚜 Engeenering Computer 𝚏𝚛𝚘𝚖 CESUPA, 𝚌𝚕𝚊𝚜𝚜 𝚘𝚏 𝟸0𝟸6
+- 🖥 I Like Exploring GNU/Linux
 
 <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" />
 
