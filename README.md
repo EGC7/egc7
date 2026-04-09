@@ -1,12 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=283D59&hCenter=true&vCenter=true&width=500&lines=Hi+There+%F0%9F%91%8B%F0%9F%8F%BB!+My+Name+is+Eduardo+Cajueiro)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3985F7FF&hCenter=true&vCenter=true&width=500&lines=Hi+There+%F0%9F%91%8B%F0%9F%8F%BB!+My+Name+is+Eduardo+Cajueiro)](https://git.io/typing-svg)
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/eduardo-cajueiro-1b0366337/"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /> </a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/gc.edua/"> <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=d62976&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  /> </a>
-</div>
-
-<hr/>
 
 <p align="left">  
 
@@ -105,6 +98,7 @@
  --!>
  
 ###
+<!--
 ```dart
 // tools_I_use organized
 
@@ -126,13 +120,22 @@ class About extends Me {
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/egc7/egc7/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/egc7/egc7/output/pacman-contribution-graph.svg">
 </picture>
+-->
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 💼 Engeneering 𝚠𝚒𝚝𝚑 bold 𝚒𝚍𝚎𝚊𝚜
 - 🎓 𝙱𝚊𝚌𝚑𝚎𝚕𝚘𝚛'𝚜 Engeenering Computer 𝚏𝚛𝚘𝚖 CESUPA, 𝚌𝚕𝚊𝚜𝚜 𝚘𝚏 𝟸0𝟸6
 - 🖥 I Like Exploring GNU/Linux
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/eduardo-cajueiro-1b0366337/"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /> </a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/gc.edua/"> <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=d62976&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  /> </a>
+</div>
+
 <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" />
+
+<hr/>
 
 <div align="center" >
 <a  href="https://github.com/egc7">
