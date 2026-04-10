@@ -1,81 +1,82 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3985F7FF&hCenter=true&vCenter=true&width=500&lines=Hi+There+%F0%9F%91%8B%F0%9F%8F%BB!+My+Name+is+Eduardo+Cajueiro)](https://git.io/typing-svg)
+# Hi! I´m Eduardo Cajueiro <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Love-You%20Gesture%20Medium-Light%20Skin%20Tone.png" width="32px">
 
+## Skills :rocket:
 
-<p align="left">  
+<p align="center">  
 
   <a href="https://github.com/harish-sethuraman/readme-components">
-   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=61DAFB">
+   <img src="https://readme-components.vercel.app/api?component=logo&fill=transparent&logo=react&animation=spin&svgfill=61DAFB">
   </a>
   
   <a href="https://github.com/harish-sethuraman/readme-components"> 
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=3178C6">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=transparent&logo=typescript&svgfill=3178C6">
   </a>
  
   <a href="https://github.com/harish-sethuraman/readme-components">
-   <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=339933">
+   <img src="https://readme-components.vercel.app/api?component=logo&fill=transparent&logo=node.js&svgfill=339933">
   </a>
 
   <a href="https://github.com/harish-sethuraman/readme-components">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=html5&svgfill=E34F26">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=transparent&logo=html5&svgfill=E34F26">
   </a>
 
   <a href="https://github.com/harish-sethuraman/readme-components">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=F7DF1E">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=transparent&logo=javascript&svgfill=F7DF1E">
   </a>
 
   <a href="https://github.com/harish-sethuraman/readme-components">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=css3&svgfill=1572B6">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=transparent&logo=css3&svgfill=1572B6">
   </a>
 
   <a href="https://github.com/harish-sethuraman/readme-components">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github&svgfill=FFFFFF">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=transparent&logo=github&svgfill=FFFFFF">
   </a>
  
   <a href="https://github.com/harish-sethuraman/readme-components">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=git&svgfill=F05032">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=transparent&logo=git&svgfill=F05032">
   </a>
  
   <a href="https://github.com/harish-sethuraman/readme-components">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=python&svgfill=3776AB">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=transparent&logo=python&svgfill=3776AB">
   </a>
  
   <a href="https://github.com/harish-sethuraman/readme-components">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=java&svgfill=007396">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=transparent&logo=java&svgfill=007396">
   </a>
  
   <a href="https://github.com/harish-sethuraman/readme-components">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=c&svgfill=A8B9CC">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=transparent&logo=c&svgfill=A8B9CC">
   </a>
  
   <a href="https://github.com/harish-sethuraman/readme-components">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=firebase&svgfill=FFCA28">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=transparent&logo=firebase&svgfill=FFCA28">
   </a>
  
   <a href="https://github.com/harish-sethuraman/readme-components">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=json&svgfill=A3A3A3">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=transparent&logo=json&svgfill=A3A3A3">
   </a>
  
   <a href="https://github.com/harish-sethuraman/readme-components">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=markdown&svgfill=A3A3A3">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=transparent&logo=markdown&svgfill=A3A3A3">
   </a>
  
   <a href="https://github.com/harish-sethuraman/readme-components">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=white&logo=linux&svgfill=000000&textfill=000000">
-  </a>
- 
-  <a href="https://github.com/harish-sethuraman/readme-components">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=sqlite&svgfill=003B57">
-  </a>
- 
-  <a href="https://github.com/harish-sethuraman/readme-components">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=figma&svgfill=F24E1E">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=transparent&logo=linux&svgfill=FFCC33">
   </a>
 
 </p>
 
-###
-
-<hr></hr>
+## My Trajectory :compass:
+ - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" align="center" width="25"> **CESUPA**:
+    - **B.Sc. in Computer Science and Engineering (In Progress)**
+      - January 2026 – (Present)
+ - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" align="center" width="25"> **FIRST Tech Challenge (FIRST)**
+    - **FTC Software Developer • Autonomous Navigation, Odometry & Vision Systems**
+      - November 2022 – March 2024
+ - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Joystick.png" aling="center" width="25" /> **FIRST Robotics Competition (FIRST)**
+    - **FRC Software Developer • Advanced Control Systems & Robotics**
+      - August 2024 – March 2026
+      
 <!--
   ![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
   ![semicolon](https://img.shields.io/badge/-%3A-orange)
@@ -96,8 +97,9 @@
   ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
   ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
  --!>
+
+
  
-###
 <!--
 ```dart
 // tools_I_use organized
@@ -113,29 +115,34 @@ class About extends Me {
   };
 }
 ```
-
-###
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/egc7/egc7/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/egc7/egc7/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/egc7/egc7/output/pacman-contribution-graph.svg">
-</picture>
 -->
 
-## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-- 💼 Engeneering 𝚠𝚒𝚝𝚑 bold 𝚒𝚍𝚎𝚊𝚜
-- 🎓 𝙱𝚊𝚌𝚑𝚎𝚕𝚘𝚛'𝚜 Engeenering Computer 𝚏𝚛𝚘𝚖 CESUPA, 𝚌𝚕𝚊𝚜𝚜 𝚘𝚏 𝟸0𝟸6
-- 🖥 I Like Exploring GNU/Linux
+<!-- Rede -->
+
+<!--
 
 <div align="center">
   <a href="https://www.linkedin.com/in/eduardo-cajueiro-1b0366337/"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /> </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://instagram.com/gc.edua/"> <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=d62976&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  /> </a>
 </div>
+-->
 
-<img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" />
+<!-- Status -->
 
-<hr/>
+<!-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Paw%20Prints.png" alt="Paw Prints" align="right" width="10%"  />
+<br/> -->
+
+<!-- <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="11%" />
+<br/>
+<br/> -->
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Black%20Cat.png" alt="Black Cat" align="right" width="11%" />
+<br/>
+<br/>
+
+## Github Stats :bar_chart:
+
 
 <div align="center" >
 <a  href="https://github.com/egc7">
@@ -151,8 +158,24 @@ class About extends Me {
   <img align="center" src="https://raw.githubusercontent.com/EGC7/egc7/main/profile-summary-card-output/nord_dark/0-profile-details.svg" >
 
 </details>
+
+</div>
+
+
+<hr/>
+
+<!-- PacMan!! -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/egc7/egc7/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/egc7/egc7/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/egc7/egc7/output/pacman-contribution-graph.svg">
+</picture>
+
+<div align="center" >
   
-<hr></hr>
+<!-- Cycle -->
+
+<!--
 
 **Code Cycle**<br>
 
@@ -163,3 +186,7 @@ class About extends Me {
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Exploding%20Head.png" alt="Exploding Head" width="10%" /><br>
 
 </div>
+
+-->
+
+### Thanks for visiting!&nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Partying%20Face.png" alt="Partying Face" width="25"/>
