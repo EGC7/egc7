@@ -5,63 +5,63 @@
 <p align="center">  
 
   <a href="https://github.com/harish-sethuraman/readme-components">
-   <img src="https://readme-components.vercel.app/api?component=logo&fill=transparent&logo=react&animation=spin&svgfill=61DAFB">
+   <img src="https://readme-components.vercel.app/api?component=logo&fill=0d1117&logo=react&animation=spin&svgfill=61DAFB">
   </a>
   
   <a href="https://github.com/harish-sethuraman/readme-components"> 
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=transparent&logo=typescript&svgfill=3178C6">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=0d1117&logo=typescript&svgfill=3178C6">
   </a>
  
   <a href="https://github.com/harish-sethuraman/readme-components">
-   <img src="https://readme-components.vercel.app/api?component=logo&fill=transparent&logo=node.js&svgfill=339933">
+   <img src="https://readme-components.vercel.app/api?component=logo&fill=0d1117&logo=node.js&svgfill=339933">
   </a>
 
   <a href="https://github.com/harish-sethuraman/readme-components">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=transparent&logo=html5&svgfill=E34F26">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=0d1117&logo=html5&svgfill=E34F26">
   </a>
 
   <a href="https://github.com/harish-sethuraman/readme-components">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=transparent&logo=javascript&svgfill=F7DF1E">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=0d1117&logo=javascript&svgfill=F7DF1E">
   </a>
 
   <a href="https://github.com/harish-sethuraman/readme-components">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=transparent&logo=css3&svgfill=1572B6">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=0d1117&logo=css3&svgfill=1572B6">
   </a>
 
   <a href="https://github.com/harish-sethuraman/readme-components">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=transparent&logo=github&svgfill=FFFFFF">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=0d1117&logo=github&svgfill=FFFFFF">
   </a>
  
   <a href="https://github.com/harish-sethuraman/readme-components">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=transparent&logo=git&svgfill=F05032">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=0d1117&logo=git&svgfill=F05032">
   </a>
  
   <a href="https://github.com/harish-sethuraman/readme-components">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=transparent&logo=python&svgfill=3776AB">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=0d1117&logo=python&svgfill=3776AB">
   </a>
  
   <a href="https://github.com/harish-sethuraman/readme-components">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=transparent&logo=java&svgfill=007396">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=0d1117&logo=java&svgfill=007396">
   </a>
  
   <a href="https://github.com/harish-sethuraman/readme-components">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=transparent&logo=c&svgfill=A8B9CC">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=0d1117&logo=c&svgfill=A8B9CC">
   </a>
  
   <a href="https://github.com/harish-sethuraman/readme-components">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=transparent&logo=firebase&svgfill=FFCA28">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=0d1117&logo=firebase&svgfill=FFCA28">
   </a>
  
   <a href="https://github.com/harish-sethuraman/readme-components">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=transparent&logo=json&svgfill=A3A3A3">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=0d1117&logo=json&svgfill=A3A3A3">
   </a>
  
   <a href="https://github.com/harish-sethuraman/readme-components">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=transparent&logo=markdown&svgfill=A3A3A3">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=0d1117&logo=markdown&svgfill=A3A3A3">
   </a>
  
   <a href="https://github.com/harish-sethuraman/readme-components">
-    <img src="https://readme-components.vercel.app/api?component=logo&fill=transparent&logo=linux&svgfill=FFCC33">
+    <img src="https://readme-components.vercel.app/api?component=logo&fill=0d1117&logo=linux&svgfill=FFCC33">
   </a>
 
 </p>
