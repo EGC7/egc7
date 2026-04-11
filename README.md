@@ -68,7 +68,7 @@
 
 ## My Trajectory :compass:
  - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" align="center" width="25"> **CESUPA**:
-    - **B.Sc. in Computer Science and Engineering (In Progress)**
+    - **B.Sc. in Computer Engineering (In Progress)**
       - January 2026 – (Present)
  - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Joystick.png" align="center" width="25" /> **FIRST Robotics Competition (FIRST)**
     - **FRC Software Developer • Advanced Control Systems & Robotics**
